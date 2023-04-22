@@ -3,7 +3,7 @@
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 
 html{
-  background-color: #9ca3bd;
+  background-color: #b3b3ff;
   font-family: 'Courier New', Courier, monospace;
 }
 
@@ -11,6 +11,6 @@ html{
     padding: 10px;
     margin-bottom: 10px;
     border: solid 1px #000000;
-    background-color: #dcc9b4;
+    background-color: #e6e6ff;
     text-align: left;
   }
