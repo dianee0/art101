@@ -21,7 +21,6 @@ function Game(param1, param2) {
   //If timer reaches 0
     //print both user inputs on screen.
   //Print the winner's username.
-  
 
 }
 

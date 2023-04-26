@@ -4,6 +4,29 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 1px #454545;
+    background-color: #e5dbcf;
+  }
+
+  .output {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    flex-direction: row;
+  }
+
+  p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .carimg {
+    display: block;
+    margin-left: 10px;
+  }
+
+  body {
+    background-color: #7fa692;
+  }
+
+  #content{
+    background-color: #96bfaa;
   }

@@ -1,21 +1,21 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// index.js - The purpose of this lab is to demonstrate understanding of data types and variables.
+// Author: Diane Poeng
+// Date: 4/26/23
 
-// Constants
+// Define Variables
+let make = "Hyundai";
+let model = "Elantra";
+let color = "Grey";
+let year = 2018;
 
-// Functions
+// Calculate
+let age = 2023-year;
 
-// this is an example function and this comment tells what it doees and what parameters are passed to it.
-function myFunction(param1, param2) {
-  // some code here
-  // return results;
-}
+// Output
+document.writeln("Make: " + make + "<br>");
+document.writeln("Model: " + model+ "<br>");
+document.writeln("Color: " + color + "<br>");
+document.writeln("Year: " + year + "<br>");
+document.writeln("Age: " + age + " years<br>");
 
-function main() {
-  console.log("Main function started.");
-  // the code that makes everything happen
-}
 
-// let's get this party started
-main();
