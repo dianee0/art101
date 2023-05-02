@@ -1,0 +1,23 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #454545;
+    background-color: #f3c3d0;
+  }
+  
+  p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  
+  body {
+    background-color: #ff9ab5;
+  }
+  
+  #content{
+    background-color: #d37991;
+  }
+
+  .output{
+    font-family: cursive;
+}
