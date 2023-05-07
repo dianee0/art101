@@ -1,0 +1,35 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #000000;
+    background-color: #b7a69e;
+    
+  }
+  
+  p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  
+  body {
+    
+    background-color: #758171;
+  }
+  
+  #content{
+    border: solid 1px #000000;
+    background-color: #796d67;
+  }
+
+  .output{
+    font-family: cursive;
+}
+
+.homepage {
+  color: #000000;
+  
+}
+
+a:visited{
+  color: #ffffff;
+}
