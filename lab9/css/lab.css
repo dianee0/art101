@@ -1,0 +1,88 @@
+html {
+  min-height: 100%;
+}
+
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #000000;
+    background-color: #f2ebde;
+    
+  }
+  
+  p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  
+  body {
+    height: 200px;
+    background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
+  }
+  
+  #content{
+    border: solid 1px #000000;
+    background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
+  }
+
+  .output{
+    font-family: cursive;
+}
+
+.homepage {
+  color: #000000;
+  
+}
+
+a:visited{
+  color: #ffffff;
+}
+
+#output{
+  -webkit-animation: rainbow 5s infinite;
+  text-align: center;
+}
+
+
+
+
+
+
+@keyframes rainbow{
+		100%,0%{
+			color: rgb(247, 104, 104);
+		}
+		8%{
+			color: rgb(246, 185, 125);
+		}
+		16%{
+			color: rgb(244, 244, 126);
+		}
+		25%{
+			color: rgb(194, 246, 143);
+		}
+		33%{
+			color: rgb(0,255,0);
+		}
+		41%{
+			color: rgb(129, 241, 185);
+		}
+		50%{
+			color: rgb(139, 244, 244);
+		}
+		58%{
+			color: rgb(106, 172, 237);
+		}
+		66%{
+			color: rgb(103, 103, 246);
+		}
+		75%{
+			color: rgb(176, 113, 239);
+		}
+		83%{
+			color: rgb(247, 126, 247);
+		}
+		91%{
+			color: rgb(248, 108, 178);
+		}
+}
