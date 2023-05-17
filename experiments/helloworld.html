@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- This title is used for tabs and bookmarks -->
+	<title>Hello World</title>
+
+	<!-- Use UTF character set, a good idea with any webpage -->
+  	<meta charset="UTF-8" />
+	<!-- Set viewport so page remains consistently scaled w narrow devices -->
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	
+	<!-- load jQuery library to make javascript easier (must be above our lab js)-->
+	<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+	<!-- Link to javascript file - DEFER waits until all elements are rendered -->
+	<script type="text/javascript" src="./helloworld.js" DEFER></script>
+</head>
+<body>
+	<h1 id="hello">Hello World!</h1>
+    <button id="my-button">Press me</button>
+	Input: <input type="input" id="my-input">
+	<button id="button2">
+		Tell you what you said.
+	</button>
+
+	<div id = "output">
+
+	</div>
+</body>
+</html>

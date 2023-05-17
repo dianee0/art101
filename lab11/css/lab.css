@@ -1,0 +1,55 @@
+html{
+  min-height: 100%;
+}
+
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #000000;
+    background-color: #f2cdcd;
+    
+  }
+
+  
+  p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  
+  body {
+    
+    background-color: #b4d5f1;
+  }
+  
+  #content{
+    border: solid 1px #000000;
+    background-color: #fbafaf;
+  }
+
+  .output{
+    font-family: cursive;
+}
+
+.homepage {
+  color: #000000;
+  
+}
+
+a:visited{
+  color: #ffffff;
+}
+
+
+
+button:hover {
+  box-shadow: 4px 4px 0 #000;
+  transform: translate(-4px,-4px);
+}
+
+button:focus-visible{
+  outline-offset: 1px;
+}
+
+button {
+  background-color: rgb(180, 213, 241);
+}
