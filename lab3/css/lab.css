@@ -38,20 +38,3 @@ a:visited{
   color: #ffffff;
 }
 
-
-
-button:hover {
-  box-shadow: 4px 4px 0 #000;
-  transform: translate(-4px,-4px);
-}
-
-button:focus-visible{
-  outline-offset: 1px;
-}
-
-button {
-  background-color: rgb(109, 97, 93);
-  color: white;
-}
-
-
