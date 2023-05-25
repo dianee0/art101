@@ -1,0 +1,47 @@
+html{
+  min-height: 100%;
+}
+
+#output {
+  columns: 9;
+  column-rule-style: dashed;
+  column-rule-color: rgb(0, 0, 0);
+}
+
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #000000;
+    background-color: #a3b2c8;
+  }
+
+  
+  p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  
+  body {
+    background-color: #7996ae;;
+  }
+  
+  #content{
+    border: solid 1px #000000;
+    background-color: #dab768;
+  }
+
+  .output{
+    font-family: cursive;
+}
+
+.homepage {
+  color: #000000;
+  
+}
+
+a:visited{
+  color: #ffffff;
+}
+
+
+
