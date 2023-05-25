@@ -2,12 +2,17 @@ html{
   min-height: 100%;
 }
 
+#output {
+  columns: 9;
+  column-rule-style: dashed;
+  column-rule-color: rgb(0, 0, 0);
+}
 
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
     border: solid 1px #000000;
-    background-color: #e4ccae;
+    background-color: #ded2c5;
   }
 
   
@@ -17,12 +22,12 @@ html{
   
   
   body {
-    background-color: #756149;;
+    background-color: #79aea5;;
   }
   
   #content{
     border: solid 1px #000000;
-    background-color: #b79d7e;
+    background-color: #b099cf;
   }
 
   .output{
@@ -50,8 +55,7 @@ button:focus-visible{
 }
 
 button {
-  background-color: rgb(109, 97, 93);
-  color: white;
+  background-color: #79aea5;
+  color: rgb(0, 0, 0);
 }
-
 
