@@ -1,0 +1,87 @@
+html{
+  min-height: 100%;
+}
+
+h1{
+  color: #092834;
+}
+
+h2 {
+  color: #092834;
+}
+
+p {
+  color: #1A3E4C;
+}
+
+
+#output {
+  font-family: sans-serif;
+  color: #000000;
+}
+
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #000000;
+    background-color: #E4F1F6;
+  }
+
+  
+  p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  
+  body {
+    background-color: #347B98;
+  }
+  
+  #content{
+    border: solid 1px #000000;
+    background-color: #67AFCB;
+  }
+
+
+.homepage {
+  color: #000000;
+  
+}
+
+a:visited{
+  color: #ffffff;
+}
+
+
+
+/* Container needed to position the button. Adjust the width as needed */
+.container {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.minor-section img {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.minor-section .btn {
+  position: absolute;
+  top: 120%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #000000;
+  color: rgb(205, 187, 71);
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.minor-section .btn:hover {
+  background-color: rgb(66, 65, 65);
+}
